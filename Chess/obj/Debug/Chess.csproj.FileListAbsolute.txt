@@ -1,0 +1,17 @@
+C:\Users\HotIce\Desktop\C#\Chess\Framework\Chess\Chess\bin\Debug\Chess.exe.config
+C:\Users\HotIce\Desktop\C#\Chess\Framework\Chess\Chess\bin\Debug\Chess.exe
+C:\Users\HotIce\Desktop\C#\Chess\Framework\Chess\Chess\bin\Debug\Chess.pdb
+C:\Users\HotIce\Desktop\C#\Chess\Framework\Chess\Chess\obj\Debug\Chess.csproj.AssemblyReference.cache
+C:\Users\HotIce\Desktop\C#\Chess\Framework\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\HotIce\Desktop\C#\Chess\Framework\Chess\Chess\obj\Debug\Chess.exe
+C:\Users\HotIce\Desktop\C#\Chess\Framework\Chess\Chess\obj\Debug\Chess.pdb
+C:\Users\HotIce\Desktop\C#\Chess\Chess\Chess\Chess\bin\Debug\Chess.exe.config
+C:\Users\HotIce\Desktop\C#\Chess\Chess\Chess\Chess\bin\Debug\Chess.exe
+C:\Users\HotIce\Desktop\C#\Chess\Chess\Chess\Chess\bin\Debug\Chess.pdb
+C:\Users\HotIce\Desktop\C#\Chess\Chess\Chess\Chess\obj\Debug\Chess.csproj.AssemblyReference.cache
+C:\Users\HotIce\Desktop\C#\Chess\Chess\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\HotIce\Desktop\C#\Chess\Chess\Chess\Chess\obj\Debug\Chess.exe
+C:\Users\HotIce\Desktop\C#\Chess\Chess\Chess\Chess\obj\Debug\Chess.pdb
+C:\Users\HotIce\Desktop\C#\Chess\Chess\Chess\Chess\bin\Debug\AE.Net.Mail.dll
+C:\Users\HotIce\Desktop\C#\Chess\Chess\Chess\Chess\bin\Debug\AE.Net.Mail.pdb
+C:\Users\HotIce\Desktop\C#\Chess\Chess\Chess\Chess\obj\Debug\Chess.csproj.CopyComplete
